@@ -32,3 +32,6 @@ bri_source "$BRI_TMX/ui/prompt.sh"
 
 # Syntax engine
 bri_source "$BRI_TMX/core/syntax-engine.sh"
+
+# Autosuggest & ZLE
+bri_source "$BRI_TMX/core/autosuggest-engine.sh"
